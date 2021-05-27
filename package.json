@@ -19,7 +19,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "gatsby": "^2.32.3",
+    "gatsby": "^3.4.1",
     "gatsby-ipfs-web-wallet": "^1.23.2",
     "gatsby-plugin-bch-tx-history": "^1.1.3"
   },
